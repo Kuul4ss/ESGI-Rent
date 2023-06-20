@@ -3,4 +3,4 @@
 	url = https://github.com/Kuul4ss/Rent-Front-API
 [submodule "rent-properties-api"]
 	path = rent-properties-api
-	url = ./rent-properties-api
+	url = https://github.com/Yuubau/rent-properties-api
