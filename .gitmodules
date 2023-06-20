@@ -1,3 +1,6 @@
 [submodule "Rent-Front-API"]
 	path = Rent-Front-API
 	url = https://github.com/Kuul4ss/Rent-Front-API
+[submodule "rent-properties-api"]
+	path = rent-properties-api
+	url = ./rent-properties-api
