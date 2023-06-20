@@ -4,3 +4,6 @@
 [submodule "rent-properties-api"]
 	path = rent-properties-api
 	url = https://github.com/Yuubau/rent-properties-api
+[submodule "rental-cars-api"]
+	path = rental-cars-api
+	url = https://github.com/Kuul4ss/rental-cars-api.git
